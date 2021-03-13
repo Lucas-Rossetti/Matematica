@@ -7,6 +7,9 @@ tn = int(input("Número: "))
 s = turtle.getscreen()
 t = turtle.Turtle()
 
+# Velocidade
+t.speed(50)
+
 # Valores iniciais dos números
 n1 = 0
 n2 = 1
@@ -83,4 +86,4 @@ for i in range(tn):
     n = n1 + n2
 
 # Fica com a tela aberta por mais um tempo
-time.sleep(10)
+time.sleep(5)
