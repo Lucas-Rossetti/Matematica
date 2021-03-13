@@ -1,4 +1,4 @@
-# Script para representar números Fibonacci
+# Script para representar números Fibonacci(e quadrados e espiral)
 ## Dependências
 turtle
 
